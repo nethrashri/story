@@ -5,13 +5,21 @@ Go to these URLs and download (right-click → Save As):
 Main folder files - save to ~/Desktop/Testing_local_gemma_workings/all-MiniLM-L6-v2/:
 
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json
+
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/pytorch_model.bin
+
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json
+
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer.json
+
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/vocab.txt
+
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/special_tokens_map.json
+
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json
+
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json
+
 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json
 
 1_Pooling subfolder - save to ~/Desktop/Testing_local_gemma_workings/all-MiniLM-L6-v2/1_Pooling/:
